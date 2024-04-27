@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "923326834754,923226191755"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -29,7 +29,7 @@
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;Hasnain☘️"
     },
     "AUTO_DATA": {
       "description": "Enter Your Audio Data",
@@ -37,14 +37,14 @@
       "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
     },
     "OWNER_NAME": {
-      "description": "Enter Your Owner Name",
-      "required": false,
+      "description": "Mr Hasnain Sahb",
+      "required": true,
       "value": "Abhishek Suresh"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "923101699985"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
@@ -66,12 +66,12 @@
     },
     "AUTO_REACT": {
   "description": "If You Want To React Automatically To Messages Type true. Otherwise, Type false",
-  "value": "false",
+  "value": "true",
   "required": false
    },
     "AUTO_STATUS_READ": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
-      "required": false,
+      "required": "true",
       "value": "false"
     }
   },
